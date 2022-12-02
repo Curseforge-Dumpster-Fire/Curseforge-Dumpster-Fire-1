@@ -1,0 +1,327 @@
+{
+  "minecraft": {
+    "version": "1.18.2",
+    "modLoaders": [
+      {
+        "id": "forge-40.1.54",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "overrides": "overrides",
+  "manifestVersion": 1,
+  "version": "1.0.0",
+  "author": "AwesomeKalin55",
+  "name": "Curseforge Dumpster Fire 1",
+  "files": [
+    {
+      "projectID": 238222,
+      "fileID": 3847103,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Items (JEI)"
+      }
+    },
+    {
+      "projectID": 239197,
+      "fileID": 3848095,
+      "required": true,
+      "__meta": {
+        "name": "CraftTweaker",
+        "dependencies": [
+          368718
+        ]
+      }
+    },
+    {
+      "projectID": 368718,
+      "fileID": 3735545,
+      "required": true,
+      "__meta": {
+        "name": "JEITweaker",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 388172,
+      "fileID": 3847904,
+      "required": true,
+      "__meta": {
+        "name": "GeckoLib",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 419699,
+      "fileID": 3843622,
+      "required": true,
+      "__meta": {
+        "name": "Architectury API (Fabric/Forge)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 526854,
+      "fileID": 3706539,
+      "required": true,
+      "__meta": {
+        "name": "Starlight (Forge)"
+      }
+    },
+    {
+      "projectID": 574856,
+      "fileID": 3749094,
+      "required": true,
+      "__meta": {
+        "name": "Rubidium"
+      }
+    },
+    {
+      "projectID": 622170,
+      "fileID": 3846654,
+      "required": true,
+      "__meta": {
+        "name": "Mine Your Pickaxe Off"
+      }
+    },
+    {
+      "projectID": 627113,
+      "fileID": 3802966,
+      "required": true,
+      "__meta": {
+        "name": "Cookie's Misc"
+      }
+    },
+    {
+      "projectID": 631966,
+      "fileID": 3826211,
+      "required": true,
+      "__meta": {
+        "name": "The Nexus (Deep Dark Dimension)"
+      }
+    },
+    {
+      "projectID": 632347,
+      "fileID": 3846532,
+      "required": true,
+      "__meta": {
+        "name": "Space Dimensions (Forge)",
+        "dependencies": [
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 634394,
+      "fileID": 3841341,
+      "required": true,
+      "__meta": {
+        "name": "CursedRandomImpossibletest"
+      }
+    },
+    {
+      "projectID": 634441,
+      "fileID": 3844849,
+      "required": true,
+      "__meta": {
+        "name": "DeBlock"
+      }
+    },
+    {
+      "projectID": 634502,
+      "fileID": 3836423,
+      "required": true,
+      "__meta": {
+        "name": "VolumeKeybinds"
+      }
+    },
+    {
+      "projectID": 634696,
+      "fileID": 3837156,
+      "required": true,
+      "__meta": {
+        "name": "Kune Currency"
+      }
+    },
+    {
+      "projectID": 634702,
+      "fileID": 3837187,
+      "required": true,
+      "__meta": {
+        "name": "fazcraft"
+      }
+    },
+    {
+      "projectID": 634973,
+      "fileID": 3838237,
+      "required": true,
+      "__meta": {
+        "name": "MineTA"
+      }
+    },
+    {
+      "projectID": 635038,
+      "fileID": 3838535,
+      "required": true,
+      "__meta": {
+        "name": "Speed Blocks"
+      }
+    },
+    {
+      "projectID": 635218,
+      "fileID": 3840360,
+      "required": true,
+      "__meta": {
+        "name": "Hand Switch"
+      }
+    },
+    {
+      "projectID": 635265,
+      "fileID": 3840530,
+      "required": true,
+      "__meta": {
+        "name": "banking"
+      }
+    },
+    {
+      "projectID": 635378,
+      "fileID": 3844142,
+      "required": true,
+      "__meta": {
+        "name": "Armor Sets"
+      }
+    },
+    {
+      "projectID": 635446,
+      "fileID": 3841303,
+      "required": true,
+      "__meta": {
+        "name": "The Good Armors"
+      }
+    },
+    {
+      "projectID": 635482,
+      "fileID": 3841421,
+      "required": true,
+      "__meta": {
+        "name": "Obsidian Fragments Gear"
+      }
+    },
+    {
+      "projectID": 635551,
+      "fileID": 3841788,
+      "required": true,
+      "__meta": {
+        "name": "Obnoxiously Flavoured Syringes"
+      }
+    },
+    {
+      "projectID": 635631,
+      "fileID": 3842062,
+      "required": true,
+      "__meta": {
+        "name": "Zeekooped! Content"
+      }
+    },
+    {
+      "projectID": 635833,
+      "fileID": 3848369,
+      "required": true,
+      "__meta": {
+        "name": "TinyAdapt Coin"
+      }
+    },
+    {
+      "projectID": 635870,
+      "fileID": 3843142,
+      "required": true,
+      "__meta": {
+        "name": "Philip`s addons"
+      }
+    },
+    {
+      "projectID": 636095,
+      "fileID": 3844011,
+      "required": true,
+      "__meta": {
+        "name": "The Little Tweaks"
+      }
+    },
+    {
+      "projectID": 636229,
+      "fileID": 3845182,
+      "required": true,
+      "__meta": {
+        "name": "Nyf's Wearable Backpacks",
+        "dependencies": [
+          388172
+        ]
+      }
+    },
+    {
+      "projectID": 636273,
+      "fileID": 3844709,
+      "required": true,
+      "__meta": {
+        "name": "Placeable Pumpkin Pie"
+      }
+    },
+    {
+      "projectID": 636302,
+      "fileID": 3847429,
+      "required": true,
+      "__meta": {
+        "name": "Popcorns"
+      }
+    },
+    {
+      "projectID": 636304,
+      "fileID": 3846394,
+      "required": true,
+      "__meta": {
+        "name": "Epolitna ores"
+      }
+    },
+    {
+      "projectID": 636323,
+      "fileID": 3846771,
+      "required": true,
+      "__meta": {
+        "name": "Heavenward"
+      }
+    },
+    {
+      "projectID": 636350,
+      "fileID": 3845164,
+      "required": true,
+      "__meta": {
+        "name": "RIKdekat food"
+      }
+    },
+    {
+      "projectID": 636359,
+      "fileID": 3845197,
+      "required": true,
+      "__meta": {
+        "name": "Nether Update (ores,blocks,items,villagers)"
+      }
+    },
+    {
+      "projectID": 636390,
+      "fileID": 3848370,
+      "required": true,
+      "__meta": {
+        "name": "TinyAdapt Trash"
+      }
+    },
+    {
+      "projectID": 636410,
+      "fileID": 3846620,
+      "required": true,
+      "__meta": {
+        "name": "Health Bar Plus"
+      }
+    }
+  ]
+}
